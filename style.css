@@ -1,0 +1,30 @@
+* {
+   font-family: sans-serif; 
+   font-size: large;
+   
+}
+
+h1 {
+    font-size: larger;
+    text-align: center;
+    font-weight: bolder;
+    font-display: bold;
+    color: black;   
+}
+
+p {
+    font-size: larger;
+    text-align: center;
+}
+
+h2 {font-size: larger;
+    text-align: center;
+    font-weight: bolder;
+    font-display: bold;
+}
+
+.apply {
+    display: grid;
+}
+
+
